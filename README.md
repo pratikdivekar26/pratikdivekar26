@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Pratik Divekar
-**A passionate pharma student switching career in management 
+**A passionate student switching career from pharma to management 
 
 Email Me 👉 ✉️ **pratikdivekar121@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
