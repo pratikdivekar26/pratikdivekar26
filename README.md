@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Pratik Divekar
+**A passionate pharma student switching career in management 
 
+Email Me 👉 ✉️ **pratikdivekar121@live.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** Enter your tech here
+- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** Enter your email here
+- 😄 **Pronouns:** Pratik
+- ⚡ **Fun fact:** 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikdivekar121@gmail.com) 
 # 📊 GitHub Stats:
