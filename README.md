@@ -13,6 +13,12 @@ Email Me 👉 ✉️ **pratikdivekar121@live.com** For Collaboration/Project or 
 - ⚡ **Fun fact:** 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikdivekar121@gmail.com) 
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratikdivekar26&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pratikdivekar26&theme=dark&hide_border=false)<br/>
